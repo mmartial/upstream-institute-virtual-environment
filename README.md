@@ -47,7 +47,7 @@ Getting around in the VM
         > please make sure that you replace the default user `ubuntu` upon first
         > start before logging in to Freenode channels.
 
-2. When `stack.sh` has finished running, you can open your [Horizon Dashboard]
+2. Run `cd /opt/devstack` then `./stack.sh`. When `stack.sh` has finished running, you can open your [Horizon Dashboard]
     (http://localhost/) or on VirtualBox using the **DevStack** bookmark
 
     * **Login**: `demo`
